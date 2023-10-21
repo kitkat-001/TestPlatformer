@@ -1,0 +1,11 @@
+2a60927148abd1d33b818b535e306557
+::res://::1697918504
+icon.svg::CompressedTexture2D::6156184068674848371::1697910136::1697910146::1::::<><>::
+::res://Scenes/::1697918526
+level.tscn::PackedScene::7139482698514441363::1697918466::0::1::::<><>::uid://dvo7fcy1w6syh<>uid://buapmj64rg2oo
+player.tscn::PackedScene::8664081072106838167::1697918466::0::1::::<><>::res://Scripts/player.gd
+enemy.tscn::PackedScene::3573426418755014384::1697918710::0::1::::<><>::res://Scenes/enemy.gd
+enemy.gd::GDScript::-1::1697918699::0::1::::<>CharacterBody2D<>::
+terrain.tscn::PackedScene::3791130262811805174::1697918466::0::1::::<><>::
+::res://Scripts/::1697918515
+player.gd::GDScript::-1::1697916196::0::1::::<>CharacterBody2D<>::
